@@ -1,7 +1,7 @@
 <!-- Description about me -->
 <h2 align="center"> About me 👨‍💻 </h2>
 
-Eyyyy what's up!!! <br />
+Heyyyy what's up!!! <br />
 I am <b>German Miquere</b> but people call me 'Ger'🕵🏼‍♂️ <br />
 I am from <strong>Argentina </strong> 😆 and I am currently studying at Digital House - Certified Tech Developer - Full Stack Developer <br />
 I'm a guy who loves developing new and interesting stuff 🖥️ <br />
