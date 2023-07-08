@@ -1,86 +1,23 @@
-<h1 align="center">Hi 👋, I'm Chandan Kushwaha</h1>
+<!-- Description about me -->
+<h2 align="center"> 🤔 About me 👨‍💻 </h2>
 
-<h2> About Me </h2>
+Eyyyy what's up!!! <br />
+I am <b>German Miquere</b> but people call me 'Ger'🕵🏼‍♂️ <br />
+I am from <strong>Argentina </strong> 😆 <br />
+I'm a guy who loves developing new and interesting stuff 🖥️ <br />
+If you are interested in a guy with a good vibe who loves the constant learning 📚, <b>⚙️I AM YOUR GUY⚙️</b> <br />
+Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
+<br/><br/> 
 
-- I'm a passionate front-end developer who loves solving problems and mastering new technologies.
-- I’m currently learning **django**.
-- Ask me about **HTML, CSS, Bootstrap**.
-- I reads books and write blogs on free time [here](https://chandanck.hashnode.dev/).
-<!-- I am currently studying Computer Science at Galgotias University. -->
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/germiquere/) 
 
-<h3 align="left">Let's Connect:</h3>
+# 💻 Tech Stack:
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ndifabio92&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div id="badges" align = "center">
-  <a href="https://www.linkedin.com/in/chandanck22/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/chandanck22">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://hashnode.com/@chandanck22">
-    <img src="https://img.shields.io/badge/hashnode-orange?style=for-the-badge&logo=hashnode&logoColor=royalblue" alt="hashnode Badge"/>
-  </a>
-    <a href="https://auth.geeksforgeeks.org/user/chandanck221/practice">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F2B3C?style=for-the-badge&logo=GeeksforGeeks" alt="gfg Badge"/>
-  </a>
-    <a href="https://www.hackerrank.com/chandanck22">
-    <img src="https://img.shields.io/badge/HackerRank-1A4055?style=for-the-badge&logo=HackerRank" alt="gfg Badge"/>
-  </a>
-  <!-- <a href="#">
-    <img src="https://img.shields.io/badge/HackerEarth-B9B3A6?style=for-the-badge&logo=HackerEarth" alt="gfg Badge"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LeetCode-1A1A1A?style=for-the-badge&logo=LeetCode" alt="gfg Badge"/>
-  </a> -->
+---
+[![](https://visitcount.itsvg.in/api?id=ndifabio92&icon=2&color=0)](https://visitcount.itsvg.in)
 
-</div>
-
-<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
-
-<h3 align="left">Languages and Tools:</h3>
-
-[![](https://img.shields.io/badge/C--A8B9CC?style=for-the-badge&logo=C)](#)
-[![](https://img.shields.io/badge/C++--00599C?style=for-the-badge&logo=C)](#) 
-[![](https://img.shields.io/badge/Python--3776AB?style=for-the-badge&logo=Python)](#) 
-[![](https://img.shields.io/badge/html--E34F26?style=for-the-badge&logo=HTML5)](#) 
-[![](https://img.shields.io/badge/CSS--1572B6?style=for-the-badge&logo=CSS3)](#) 
-[![](https://img.shields.io/badge/JavaScript--F7DF1E?style=for-the-badge&logo=JavaScript)](#) 
-[![](https://img.shields.io/badge/Bootstrap--7952B3?style=for-the-badge&logo=Bootstrap)](#) 
-[![](https://img.shields.io/badge/React--61DAFB?style=for-the-badge&logo=React)](#) 
-[![](https://img.shields.io/badge/git--F05032?style=for-the-badge&logo=git)](#) 
-[![](https://img.shields.io/badge/Django--092E20?style=for-the-badge&logo=Django)](#) 
-[![](https://img.shields.io/badge/MySQL--4479A1?style=for-the-badge&logo=MySQL)](#) 
-[![](https://img.shields.io/badge/Linux--FCC624?style=for-the-badge&logo=Linux)](#)
-
-
-
-<hr>
-<p align="center">
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandanck22&show_icons=true&locale=en&layout=compact&theme=gruvbox&include_all_commits=true&count_private=true" alt="ovi" /></p>
-<p>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=chandanck22&show_icons=true&locale=en&theme=gruvbox&include_all_commits=true&count_private=true" alt="ovi" width="410" /></p> -->
-
-<table cellpadding="0">
-  <tr style="padding: 0">
-    <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=chandanck22&show_icons=true&theme=radical#gh-dark-mode-only"/></td>
-    <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanck22&layout=compact&theme=radical&custom_title=Languages"/></td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=chandanck22&&theme=dark&show_icons=true)](https://git.io/streak-stats" /> 
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer"/>
-</p>
-
-[![Chandan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=chandanck22&theme=merko)](https://github.com/chandanck22/github-readme-activity-graph)
-
-[![@chandanck22's Holopin board](https://holopin.me/chandanck22)](https://holopin.io/@chandanck22)
-
-<!-- [![chandanck22's GitHub | Languages Over Time](https://stats.quine.sh/chandanck22/languages-over-time?theme=dark)](https://quine.sh) -->
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
