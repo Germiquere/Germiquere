@@ -3,7 +3,7 @@
 
 Heyyyy what's up!!! <br />
 I am <b>German Miquere</b> but people call me 'Ger'🕵🏼‍♂️ <br />
-I am from <strong>Argentina </strong> 😆 and I am currently studying at Digital House - Certified Tech Developer - Full Stack Developer <br />
+I am from <strong>Argentina </strong> 😆 - Certified Tech Developer - Full Stack Developer <br />
 I'm a guy who loves developing new and interesting stuff 🖥️ <br />
 If you are interested in a guy with a good vibe who loves the constant learning 📚, <b>⚙️I AM YOUR GUY⚙️</b> <br />
 Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
